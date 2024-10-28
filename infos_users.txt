@@ -1,0 +1,9 @@
+2024-10-28 05:02:10,6256141773,Henrique,Antonio,Não fornecido
+2024-10-28 05:02:20,6114239823,Jasintu,Não fornecido,Não fornecido
+2024-10-28 05:02:46,6114239823,Jasintu,Não fornecido,Não fornecido
+2024-10-28 05:10:07,6114239823,Jasintu,Nao fornecido,Nao fornecido
+2024-10-28 05:11:08,6114239823,Jasintu,Nao fornecido,Nao fornecido
+2024-10-28 05:12:36,6114239823,Jasintu,Nao fornecido,Nao fornecido
+2024-10-28 05:17:19,6114239823,Jasintu,Nao fornecido,Nao fornecido
+2024-10-28 05:19:15,6114239823,Jasintu,Nao fornecido,Nao fornecido
+2024-10-28 05:22:34,6114239823,Jasintu,Nao fornecido,Nao fornecido
